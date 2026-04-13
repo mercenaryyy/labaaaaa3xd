@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="laba3/laba3.vcxproj" Id="e4214348-87fc-43f9-837e-afa1600fa66f" />
+</Solution>
